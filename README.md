@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://stupefied-euclid-8f1aff.netlify.app/">
+    <a href="https://checkout-page-rishabh.netlify.app/">
       Demo
     </a>
     <span> | </span>
